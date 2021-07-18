@@ -65,6 +65,18 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Vikash kumar Gupta",
+    role: "CSE Undergraduate | SEO Content Writer | ML Intern",
+    image: "https://avatars.githubusercontent.com/u/60497819?v=4",
+    skills: ['pyton','ml','java','fullstack','postgreSQL'],
+    link: [
+      "https://github.com/vikash-ku24",
+      "https://www.linkedin.com/in/vikashku24/",
+      "https://twitter.com/Vikash_ku24",
+    ],
+  },
+  
 ];
 
 export default data;
